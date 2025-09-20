@@ -1,0 +1,2 @@
+# .github
+The MapApp Ecosystem
